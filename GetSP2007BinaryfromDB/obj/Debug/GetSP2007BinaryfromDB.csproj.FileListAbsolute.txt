@@ -1,0 +1,6 @@
+c:\users\gferrie\desktop\GetSP2007BinaryfromDB\GetSP2007BinaryfromDB\bin\Debug\GetSP2007BinaryfromDB.exe.config
+c:\users\gferrie\desktop\GetSP2007BinaryfromDB\GetSP2007BinaryfromDB\bin\Debug\GetSP2007BinaryfromDB.exe
+c:\users\gferrie\desktop\GetSP2007BinaryfromDB\GetSP2007BinaryfromDB\bin\Debug\GetSP2007BinaryfromDB.pdb
+c:\users\gferrie\desktop\GetSP2007BinaryfromDB\GetSP2007BinaryfromDB\obj\Debug\GetSP2007BinaryfromDB.csprojResolveAssemblyReference.cache
+c:\users\gferrie\desktop\GetSP2007BinaryfromDB\GetSP2007BinaryfromDB\obj\Debug\GetSP2007BinaryfromDB.exe
+c:\users\gferrie\desktop\GetSP2007BinaryfromDB\GetSP2007BinaryfromDB\obj\Debug\GetSP2007BinaryfromDB.pdb
